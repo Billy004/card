@@ -1,0 +1,21 @@
+.main{
+    height: 50%;
+    width: 20%;
+    box-shadow: 2px 2px 1px;
+}
+.submain{
+    display: flex;
+    height: 50%;
+    width: 50%;
+    
+}
+
+.innersub{
+    height: 50%;
+    width: 50%;
+    
+}
+
+.tripimg{
+    width: 100%;
+}
